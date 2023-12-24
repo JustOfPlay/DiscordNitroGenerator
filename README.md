@@ -38,7 +38,7 @@ headers = {
 # 👀 Instructions
 1. Install python interpreter (https://www.python.org/downloads/).
 ---
-2. Install all used libraries (Windows: setup.bat | Linux: setup.sh).
+2. Install requests in python (**pip install requests**)
 ---
 3. Execute main.py with **python main.py**.
 ---
