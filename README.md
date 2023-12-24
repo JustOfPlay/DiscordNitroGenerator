@@ -50,7 +50,7 @@ headers = {
 
 # 💰 Donation
 
-If you find DeltaModLoader helpful and wish to support its development, you can donate via Bitcoin:
+If you like my projects your free to donate:
 
 Bitcoin Address: bc1qyvc8gyplf3nd8plpz0fw3chf3vs499cxcywypd
 
